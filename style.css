@@ -1,0 +1,48 @@
+html{
+    background-color: black;
+}
+img{
+    width: 100%;
+    height:auto;
+    border: 3px outset whitesmoke;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color:whitesmoke;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+}
+h2{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color:whitesmoke;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin:0;
+}
+#night{
+        font-family: 'Dancing Script', cursive;
+        text-align: center;
+        color:whitesmoke;
+        text-transform: uppercase;
+    
+}
+h3{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color:whitesmoke;
+    text-transform: uppercase;
+    margin:0;
+}
+div{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+}
+p{
+    color:antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
